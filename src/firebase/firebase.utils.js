@@ -14,7 +14,7 @@ var config = {
 }
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
-    debugger
+
     if (!userAuth) return
     alert('Welcome to Ship n Shop ')
     const userRef = firestore.doc(`users/${userAuth.uid}`)
