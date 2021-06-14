@@ -3,9 +3,7 @@
 
 ### Version 1 :
 * The data is stored locally and not on Firestore
-* GraphQL has not been used.
-version 1 is hosted [HERE!](https://ak-clothing-attempt-two.herokuapp.com/)
-version 2 is hosted [HERE!](https://recct-ecom.herokuapp.com/)
+This site is hosted [HERE!](https://recct-ecom.herokuapp.com/)
 
 An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
 
